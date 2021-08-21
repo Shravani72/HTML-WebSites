@@ -2,6 +2,10 @@
     padding: 0;
     margin: 0;
 }
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .header{
     min-height: 100vh;
     width: 100%;
@@ -66,7 +70,7 @@ transition: 0.5s;
     margin: 10px 0 40px;
     font-size: 14px;
     color: #fff;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 
 }
 .main-button{
@@ -79,7 +83,7 @@ transition: 0.5s;
     border: 1px solid #FFF;
     background: transparent;
     cursor: pointer;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 
 }
 
